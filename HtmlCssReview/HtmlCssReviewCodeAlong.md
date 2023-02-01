@@ -10,10 +10,10 @@ Add the foundational elements to the **index.html** file. Start with `<html></ht
 
 ```html
 <html>
-	<head>
-	</head>
-	<body>
-	</body>
+    <head>
+    </head>
+    <body>
+    </body>
 </html>
 ```
 
@@ -79,7 +79,7 @@ Currently, the image might be a little big. Use CSS to update its size. Add anot
 
 ```css
 img {
-	height: 200px;
+    height: 200px;
 }
 ```
 
@@ -96,7 +96,7 @@ In the `style` element, add a ruleset that will select elements with a class of 
 
 ```css
 .shiny {
-	color: gold;
+    color: gold;
 }
 ```
 
@@ -106,8 +106,8 @@ That's it! The Fortnite Fan Site looks pretty good.
 ### index.html
 ```html
 <html>
-	<head>
-		<style>
+    <head>
+        <style>
             body {
                 background: black;
                 color: white;
@@ -119,18 +119,18 @@ That's it! The Fortnite Fan Site looks pretty good.
                 color: gold;
             }
         </style>
-	</head>
-	<body>
-		<h3 class="shiny">Fortnite Fan Site</h3>
-		<img src="https://assets.reedpopcdn.com/Fortnite-Battle-Pass-creen-1.jpeg" />
-		<p>Fortnite is a great video game filled with several memorable characters and lots of action.</p>
+    </head>
+    <body>
+        <h3 class="shiny">Fortnite Fan Site</h3>
+        <img src="https://assets.reedpopcdn.com/Fortnite-Battle-Pass-creen-1.jpeg" />
+        <p>Fortnite is a great video game filled with several memorable characters and lots of action.</p>
 
-		<h3>My Top Three Zones</h3>
-		<ol>
+        <h3>My Top Three Zones</h3>
+        <ol>
             <li>Greasy Grove</li>
             <li>Shattered Slabs</li>
             <li>Rickety Rig</li>
         </ol>
-	</body>
+    </body>
 </html>
 ```
