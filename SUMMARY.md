@@ -1,1 +1,3 @@
-- [Follow-Along Activity](FollowAlong.md)
+- [Hyland JS Academy @ UCS](BOOKREADME.md)
+- [3/2: Kick-Off: HTML and CSS Review](HtmlCssReview/StudentDesc.md)
+  - [Fortnite Code-Along](HtmlCssReview/HtmlCssReviewCodeAlong.md)
