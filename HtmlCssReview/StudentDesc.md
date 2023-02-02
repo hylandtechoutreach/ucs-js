@@ -4,5 +4,5 @@ Before we can dive into JavaScript, we need to review some basic HTML and CSS co
 ## Fortnite Code-Along
 [Click here for the code-along instructions.](HtmlCssReviewCodeAlong.md)
 
-## Questionnaire
-[Please let us know how this week went for you!](https://forms.gle/gY4rTgtUK9T9AmaS8)
+## Survey
+TODO
