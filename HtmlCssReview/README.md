@@ -20,7 +20,7 @@ Walk through [the code-along instructions](HtmlCssReviewCodeAlong.md) with the s
 If you end up with time left over, have the students change the site to be about something else.
 
 ## Kahoot
-Run through this [Kahoot](https://create.kahoot.it/share/9da0c22b-48ae-479f-9c7f-c0bfd458a2b5) to gauge what the students ultimately remember from HTML/CSS.
+Run through this [Kahoot](https://create.kahoot.it/details/0db7fccb-8b5f-46c3-a1db-4b123c0ac403) to gauge what the students ultimately remember from HTML/CSS.
 
 ## Survey
 Have the students complete the [weekly check-in survey](TODO).
