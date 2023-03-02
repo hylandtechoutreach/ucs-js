@@ -23,7 +23,7 @@ If you end up with time left over, have the students change the site to be about
 Run through this [Kahoot](https://create.kahoot.it/details/0db7fccb-8b5f-46c3-a1db-4b123c0ac403) to gauge what the students ultimately remember from HTML/CSS.
 
 ## Survey
-Have the students complete the [weekly check-in survey](TODO).
+Have the students complete the [weekly check-in survey](https://forms.gle/Ax6GpB9eHtfvYnPR8).
 
 ## Agenda
 
