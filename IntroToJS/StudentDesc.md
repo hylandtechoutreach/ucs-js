@@ -12,3 +12,6 @@ _-- Unknown_
 
 ## Code-Along Activity: Basic Chatbot
 [Click here for the self-paced work instructions.](IntroToJSCodeAlong.md)
+
+## Self-Paced Exercise: Make it Chatty
+Use what you learned today to "upgrade" your chatbot. Have it ask the user _even more_ personal questions!

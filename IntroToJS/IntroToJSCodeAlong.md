@@ -30,7 +30,7 @@ alert("Welcome to the chatbot!");
 ```html
 <html>
     <head>
-	    <script src="script.js"></script>
+        <script src="script.js"></script>
     </head>
 </html>
 ```
