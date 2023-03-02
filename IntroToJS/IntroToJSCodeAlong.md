@@ -3,7 +3,7 @@ For this exercise, start by forking [this empty Repl](https://replit.com/@Hyland
 
 ![](../Assets/ForkRepl.png)
 
-Then, follow along with the instructor to build a little text-based JavaScript program. The program will `prompt()` the user with a question and will then reply back with an `alert()` message containing the user's answer.
+Then, follow along with the instructor to build a little text-based JavaScript program. The program will `prompt` the user with a question and will then reply back with an `alert` message containing the user's answer.
 
 ## Create the JavaScript File
 In the **Files** section on the left, click the **New file** button. Give the new file a name of `script.js`.
