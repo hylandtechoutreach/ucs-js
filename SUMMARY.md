@@ -1,3 +1,5 @@
 - [Hyland JS Academy @ UCS](BOOKREADME.md)
 - [3/2: Kick-Off: HTML and CSS Review](HtmlCssReview/StudentDesc.md)
   - [Fortnite Code-Along](HtmlCssReview/HtmlCssReviewCodeAlong.md)
+- [3/9: Intro to JS](IntroToJS/StudentDesc.md)
+  - [Code-Along](IntroToJS/IntroToJSCodeAlong.md)
