@@ -11,7 +11,7 @@ _-- Unknown_
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/ucs-js/IntroToJS/JavaScriptVariables.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Code-Along Activity: Basic Chatbot
-[Click here for the self-paced work instructions.](IntroToJSCodeAlong.md)
+[Click here for the code-along instructions.](IntroToJSCodeAlong.md)
 
 ## Self-Paced Exercise: Make it Chatty
 Use what you learned today to "upgrade" your chatbot. Have it ask the user _even more_ personal questions!
