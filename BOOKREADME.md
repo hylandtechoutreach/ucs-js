@@ -8,7 +8,7 @@ Thank you for participating in this program! Please bookmark this page 😁
 Material for each lesson is linked below.
 
 - [**3/2**: Kick-Off: HTML and CSS Review](HtmlCssReview/StudentDesc.md)
-- **3/9**: Introduction to JavaScript
+- [**3/9**: Introduction to JavaScript](IntroToJS/StudentDesc.md)
 - **3/16**: Variables and Data Types
 - **NO ACADEMIES 3/23**
 - **3/30**: Buttons
