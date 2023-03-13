@@ -20,6 +20,9 @@ Material for each lesson is linked below.
 - **5/11**: Final Project Work
 - **5/18**: Final Project Presentations
 
+## ChatGPT
+[Click here to go to ChatGPT.](https://chat.openai.com/)
+
 ## Weekly Check-in
 [Click here to complete the weekly check-in survey.](https://forms.gle/Ax6GpB9eHtfvYnPR8)
 
