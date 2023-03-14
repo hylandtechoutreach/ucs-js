@@ -9,13 +9,13 @@ Material for each lesson is linked below.
 
 - [**3/2**: Kick-Off: HTML and CSS Review](HtmlCssReview/StudentDesc.md)
 - [**3/9**: Introduction to JavaScript](IntroToJS/StudentDesc.md)
-- **3/16**: Variables and Data Types
+- [**3/16**: Introduction Review](IntroReview/StudentDesc.md)
 - **NO ACADEMIES 3/23**
-- **3/30**: Buttons
-- **4/6**: Conditionals
-- **4/13**: Review
-- **4/20**: Libraries
-- **4/27**: Arrays
+- **3/30**: Variables and Data Types
+- **4/6**: Buttons
+- **4/13**: Conditionals
+- **4/20**: Review
+- **4/27**: Libraries
 - **5/4**: Review and Final Project Introduction
 - **5/11**: Final Project Work
 - **5/18**: Final Project Presentations
