@@ -3,3 +3,5 @@
   - [Fortnite Code-Along](HtmlCssReview/HtmlCssReviewCodeAlong.md)
 - [3/9: Introduction to JavaScript](IntroToJS/StudentDesc.md)
   - [Chatbot Code-Along](IntroToJS/IntroToJSCodeAlong.md)
+- [3/16: Introduction Review](IntroReview/StudentDesc.md)
+  - [Self-Paced Exercises](IntroReview/SelfPacedExercises.md)
