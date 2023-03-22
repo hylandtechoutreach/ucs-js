@@ -11,7 +11,7 @@ Material for each lesson is linked below.
 - [**3/9**: Introduction to JavaScript](IntroToJS/StudentDesc.md)
 - [**3/16**: Introduction Review](IntroReview/StudentDesc.md)
 - **NO ACADEMIES 3/23**
-- **3/30**: Variables and Data Types
+- [**3/30**: Data Types](DataTypes/StudentDesc.md)
 - **4/6**: Buttons
 - **4/13**: Conditionals
 - **4/20**: Review
