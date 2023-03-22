@@ -1,16 +1,10 @@
 # Advanced: Template Strings
 
 ## What are Template Strings?
-**Template strings**, also known as *template literals*, are a cool feature in JavaScript that makes it easier to work with strings. You know, those pieces of text that you use in your code to say "Engage!" or to show your friend's name? Template strings help you combine text with variables in a more convenient way.
+**Template strings**, also commonly known as *template literals*, are a cool feature in JavaScript that makes it easier to work with strings. You know, those pieces of text that you use in your code to say "Engage!" or to show your friend's name? Template strings help you combine text with variables in a more convenient way.
 
 ## How Do We Use Template Strings?
 To create a template string, you use backticks (`` ` ``) instead of single (`'`) or double (`"`) quotes. Backticks are usually found on the same key as the tilde (`~`) on your keyboard.
-
-Here's an example of a simple template string:
-
-```javascript
-let message = `Engage!`;
-```
 
 ## Why Are Template Strings Better?
 Well, imagine you have a crew member named Data, and you want to say hi to him using his name. Without template strings, you'd have to do something like this:

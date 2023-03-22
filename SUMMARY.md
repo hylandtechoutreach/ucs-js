@@ -6,4 +6,5 @@
 - [3/16: Introduction Review](IntroReview/StudentDesc.md)
   - [Self-Paced Exercises](IntroReview/SelfPacedExercises.md)
 - [3/30: Data Types](DataTypes/StudentDesc.md)
+  - [Math! Code-Along](DataTypes/CodeAlong.md)
   - [Advanced: Template Strings](DataTypes/TemplateStrings.md)

@@ -1,8 +1,13 @@
 ## Data Types
-This lesson covers two basic data types in JavaScript: strings and numbers. It also includes a brief introduction to code comments.
+This lesson covers two basic data types in JavaScript: strings and numbers. It also includes a brief introduction to code comments (which is reiterated in the code-along).
 
-## Icebreaker: Blooket
-[Review the topics](TODO) from last lesson.
+## Warm-Up: Questions
+Prompt the students with the following, and allow them to ponder it briefly:
+
+- Think of some different types of data you might see on a website.
+- How do you think that data is stored inside a computer?
+
+Discussion will take place during the lecture.
 
 ## Lecture: Data Types
 The [presentation](DataTypes.pptx) introduces the following concepts:
@@ -12,7 +17,9 @@ The [presentation](DataTypes.pptx) introduces the following concepts:
 - Math with numbers
     - Converting a string to a number
 
-## Hands-On Activity: Variables Activity
+_Note: template literals (sometimes called "[template strings](https://developer.chrome.com/blog/es6-template-strings/)" -- I'm rolling with that name) are likely an advanced topic for this class level so they are not part of the lecture. However, if a student is ready for that kind of added complexity, please direct them to [Template Strings](TemplateStrings.md)_.
+
+## Hands-On Activity: Cups and Scraps
 During the lecture, after introducing variables, instructors can use this tangible representation of variables to help explain them. Use cups, nametags, and scraps of paper to represent what's happening in the computer.
 
 - A **cup** represents a block of space in memory
@@ -26,18 +33,26 @@ Place a **scrap of paper** in a **cup** to represent _setting_ the value of a va
 
 Pull the **scrap of paper** out of a **cup** to represent _using_ a variable. After looking at the value, return the paper to the cup.
 
-## Code-Along: TODO
+Ask the students what happens to the old value when an existing variable gets set to a new value.
+
+## Code-Along: Math!
+Have the students follow along with a [JavaScript math experiment](CodeAlong.md).
 
 ## Review
-Quiz the students on data types and values with the [review presentation](Review.pptx). Go really slow for the last few slides to make sure it's sinking in.
+Quiz the students on data types and values with the [review presentation](Review.pptx).
+
+Go really slow for the last few slides to make sure it's sinking in.
+
+## Survey
+Have the students complete the [weekly check-in survey](https://forms.gle/Ax6GpB9eHtfvYnPR8) to get an idea of how they're feeling.
 
 ## Agenda
 
 | Activity | Time |
 |-|-|
-| Icebreaker | 10m |
-| Lecture | 15m |
-| Hands-On Activity | 10m |
-| Code-Along | 20m |
-| Review | 10m |
+| Warm-Up | 5m |
+| Lecture | 10m |
+| Activity | 10m |
+| Code-Along | 15m |
+| Review | 15m |
 | Survey | 5m |
