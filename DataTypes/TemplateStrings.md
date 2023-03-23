@@ -21,7 +21,7 @@ let name = "Data";
 let greeting = `Hello, Commander ${name}!`;
 ```
 
-See how clean and simple it is? You don't need to use the + sign anymore to combine text and variables.
+See how clean and simple it is? You don't need to use the + sign any more to combine text and variables.
 
 ## More Cool Stuff
 Template strings also let you do other neat things:

@@ -1,13 +1,8 @@
 ## Data Types
 This lesson covers two basic data types in JavaScript: strings and numbers. It also includes a brief introduction to code comments (which is reiterated in the code-along).
 
-## Warm-Up: Questions
-Prompt the students with the following, and allow them to ponder it briefly:
-
-- Think of some different types of data you might see on a website.
-- How do you think that data is stored inside a computer?
-
-Discussion will take place during the lecture.
+## Warm-Up: Blooket
+Run through the [JavaScript Basics Review](https://dashboard.blooket.com/set/641cac24f3913d08035edfbd) blooket to refresh some memories.
 
 ## Lecture: Data Types
 The [presentation](DataTypes.pptx) introduces the following concepts:
@@ -36,12 +31,7 @@ Pull the **scrap of paper** out of a **cup** to represent _using_ a variable. Af
 Ask the students what happens to the old value when an existing variable gets set to a new value.
 
 ## Code-Along: Math!
-Have the students follow along with a [JavaScript math experiment](CodeAlong.md).
-
-## Review
-Quiz the students on data types and values with the [review presentation](Review.pptx).
-
-Go really slow for the last few slides to make sure it's sinking in.
+Have the students follow along with a [JavaScript math experiment](CodeAlong.md). There is an additional challenge at the end in case there are superachievers in the class.
 
 ## Survey
 Have the students complete the [weekly check-in survey](https://forms.gle/Ax6GpB9eHtfvYnPR8) to get an idea of how they're feeling.
@@ -50,9 +40,8 @@ Have the students complete the [weekly check-in survey](https://forms.gle/Ax6GpB
 
 | Activity | Time |
 |-|-|
-| Warm-Up | 5m |
-| Lecture | 10m |
+| Review | 10m |
+| Lecture: Data Types | 15m |
 | Activity | 10m |
 | Code-Along | 15m |
-| Review | 15m |
 | Survey | 5m |
