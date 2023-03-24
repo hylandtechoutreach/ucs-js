@@ -11,7 +11,7 @@
 > `End log.`
 
 ## PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/ucs-js/DataTypes/DataTypes.pptx' width='100%' height='450px' frameborder='0'></iframe>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/ucs-js/DataTypes/DataTypes.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Code-Along: Math!
 Let's explore the intricacies of combining data types! Click [here](CodeAlong.md) to get started.
