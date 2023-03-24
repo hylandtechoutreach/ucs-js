@@ -1,0 +1,412 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Advanced: Template Strings · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-toggle-chapters/toggle.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../styles/website.css">
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    
+    <link rel="prev" href="CodeAlong.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Hyland JS Academy @ UCS
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../HtmlCssReview/StudentDesc.html">
+            
+                <a href="../HtmlCssReview/StudentDesc.html">
+            
+                    
+                    3/2: Kick-Off: HTML and CSS Review
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1" data-path="../HtmlCssReview/HtmlCssReviewCodeAlong.html">
+            
+                <a href="../HtmlCssReview/HtmlCssReviewCodeAlong.html">
+            
+                    
+                    Fortnite Code-Along
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../IntroToJS/StudentDesc.html">
+            
+                <a href="../IntroToJS/StudentDesc.html">
+            
+                    
+                    3/9: Introduction to JavaScript
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="../IntroToJS/IntroToJSCodeAlong.html">
+            
+                <a href="../IntroToJS/IntroToJSCodeAlong.html">
+            
+                    
+                    Chatbot Code-Along
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../IntroReview/StudentDesc.html">
+            
+                <a href="../IntroReview/StudentDesc.html">
+            
+                    
+                    3/16: Introduction Review
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="../IntroReview/SelfPacedExercises.html">
+            
+                <a href="../IntroReview/SelfPacedExercises.html">
+            
+                    
+                    Self-Paced Exercises
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="StudentDesc.html">
+            
+                <a href="StudentDesc.html">
+            
+                    
+                    3/30: Data Types
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1" data-path="CodeAlong.html">
+            
+                <a href="CodeAlong.html">
+            
+                    
+                    Math! Code-Along
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.5.2" data-path="TemplateStrings.html">
+            
+                <a href="TemplateStrings.html">
+            
+                    
+                    Advanced: Template Strings
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >Advanced: Template Strings</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="advanced-template-strings">Advanced: Template Strings</h1>
+<h2 id="what-are-template-strings">What are Template Strings?</h2>
+<p><strong>Template strings</strong>, also commonly known as <em>template literals</em>, are a cool feature in JavaScript that makes it easier to work with strings. You know, those pieces of text that you use in your code to say &quot;Engage!&quot; or to show your friend&apos;s name? Template strings help you combine text with variables in a more convenient way.</p>
+<h2 id="how-do-we-use-template-strings">How Do We Use Template Strings?</h2>
+<p>To create a template string, you use backticks (<code>` </code>) instead of single (<code>&apos;</code>) or double (<code>&quot;</code>) quotes. Backticks are usually found on the same key as the tilde (<code>~</code>) on your keyboard.</p>
+<h2 id="why-are-template-strings-better">Why Are Template Strings Better?</h2>
+<p>Well, imagine you have a crew member named Data, and you want to say hi to him using his name. Without template strings, you&apos;d have to do something like this:</p>
+<pre><code class="lang-javascript"><span class="hljs-keyword">let</span> name = <span class="hljs-string">&quot;Data&quot;</span>;
+<span class="hljs-keyword">let</span> greeting = <span class="hljs-string">&quot;Hello, Commander &quot;</span> + name + <span class="hljs-string">&quot;!&quot;</span>;
+</code></pre>
+<p>But with template strings, you can use placeholders to make your life easier. Placeholders are created using <code>${}</code> with the variable inside:</p>
+<pre><code class="lang-javascript"><span class="hljs-keyword">let</span> name = <span class="hljs-string">&quot;Data&quot;</span>;
+<span class="hljs-keyword">let</span> greeting = <span class="hljs-string">`Hello, Commander <span class="hljs-subst">${name}</span>!`</span>;
+</code></pre>
+<p>See how clean and simple it is? You don&apos;t need to use the + sign any more to combine text and variables.</p>
+<h2 id="more-cool-stuff">More Cool Stuff</h2>
+<p>Template strings also let you do other neat things:</p>
+<h3 id="multiline-strings">Multiline strings</h3>
+<p>You can create strings that span multiple lines just by pressing Enter. No need to use <code>\n</code> any more!</p>
+<pre><code class="lang-javascript"><span class="hljs-keyword">let</span> multiline = <span class="hljs-string">`Captain&apos;s Log,
+Stardate 43125.8,
+We have entered a new region of space.`</span>;
+</code></pre>
+<h3 id="expressions">Expressions</h3>
+<p>You can even do math or other calculations inside the placeholders:</p>
+<pre><code class="lang-javascript"><span class="hljs-keyword">let</span> warpFactor = <span class="hljs-number">9</span>;
+<span class="hljs-keyword">let</span> speed = <span class="hljs-number">2</span>;
+<span class="hljs-keyword">let</span> result = <span class="hljs-string">`Warp factor <span class="hljs-subst">${warpFactor}</span> is <span class="hljs-subst">${warpFactor * speed}</span> times faster than warp factor <span class="hljs-subst">${speed}</span>.`</span>;
+</code></pre>
+<h3 id="special-characters">Special characters</h3>
+<p>Template strings make it easy to include special characters in your text, like quotes or backslashes, without the need for escape characters:</p>
+<pre><code class="lang-javascript"><span class="hljs-keyword">let</span> quote = <span class="hljs-string">`Captain Picard once said, &quot;Make it so!&quot;`</span>;
+<span class="hljs-keyword">let</span> filePath = <span class="hljs-string">`C:\StarTrek\TNG`</span>;
+</code></pre>
+<h2 id="recap">Recap</h2>
+<p>Template strings are a great way to work with strings in JavaScript. They make it easy to combine text and variables using placeholders, create multiline strings, perform calculations, and include special characters. <strong>Just remember to use backticks (<code>` </code>) instead of single or double quotes</strong>, and you&apos;ll be boldly going where no coder has gone before!</p>
+<h2 id="further-reading">Further Reading</h2>
+<p>Click <a href="https://developer.chrome.com/blog/es6-template-strings/" target="_blank">here</a> to read even more about template strings!</p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="CodeAlong.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page: Math! Code-Along">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Advanced: Template Strings","level":"1.5.2","depth":2,"previous":{"title":"Math! Code-Along","level":"1.5.1","depth":2,"path":"DataTypes/CodeAlong.md","ref":"DataTypes/CodeAlong.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"DataTypes/TemplateStrings.md","mtime":"2023-03-24T13:52:04.505Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2023-03-24T13:52:42.015Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-toggle-chapters/toggle.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
