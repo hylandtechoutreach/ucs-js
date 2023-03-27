@@ -8,3 +8,5 @@
 - [3/30: Data Types](DataTypes/StudentDesc.md)
   - [Math! Code-Along](DataTypes/CodeAlong.md)
   - [Advanced: Template Strings](DataTypes/TemplateStrings.md)
+- [4/6: Buttons](Buttons/StudentDesc.md)
+  - [Self-Paced Exercise](Buttons/SelfPacedExercise.md)
