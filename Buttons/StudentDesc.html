@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Advanced: Template Strings · GitBook</title>
+        <title>4/6: Buttons · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -63,10 +63,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../Buttons/StudentDesc.html" />
+    <link rel="next" href="SelfPacedExercise.html" />
     
     
-    <link rel="prev" href="CodeAlong.html" />
+    <link rel="prev" href="../DataTypes/TemplateStrings.html" />
     
 
     </head>
@@ -204,9 +204,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.5" data-path="StudentDesc.html">
+        <li class="chapter " data-level="1.5" data-path="../DataTypes/StudentDesc.html">
             
-                <a href="StudentDesc.html">
+                <a href="../DataTypes/StudentDesc.html">
             
                     
                     3/30: Data Types
@@ -218,9 +218,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.5.1" data-path="CodeAlong.html">
+        <li class="chapter " data-level="1.5.1" data-path="../DataTypes/CodeAlong.html">
             
-                <a href="CodeAlong.html">
+                <a href="../DataTypes/CodeAlong.html">
             
                     
                     Math! Code-Along
@@ -231,9 +231,9 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.5.2" data-path="TemplateStrings.html">
+        <li class="chapter " data-level="1.5.2" data-path="../DataTypes/TemplateStrings.html">
             
-                <a href="TemplateStrings.html">
+                <a href="../DataTypes/TemplateStrings.html">
             
                     
                     Advanced: Template Strings
@@ -249,9 +249,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.6" data-path="../Buttons/StudentDesc.html">
+        <li class="chapter active" data-level="1.6" data-path="StudentDesc.html">
             
-                <a href="../Buttons/StudentDesc.html">
+                <a href="StudentDesc.html">
             
                     
                     4/6: Buttons
@@ -263,9 +263,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.6.1" data-path="../Buttons/SelfPacedExercise.html">
+        <li class="chapter " data-level="1.6.1" data-path="SelfPacedExercise.html">
             
-                <a href="../Buttons/SelfPacedExercise.html">
+                <a href="SelfPacedExercise.html">
             
                     
                     Self-Paced Exercise
@@ -311,7 +311,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >Advanced: Template Strings</a>
+        <a href=".." >4/6: Buttons</a>
     </h1>
 </div>
 
@@ -326,44 +326,23 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="advanced-template-strings">Advanced: Template Strings</h1>
-<h2 id="what-are-template-strings">What are Template Strings?</h2>
-<p><strong>Template strings</strong>, also commonly known as <em>template literals</em>, are a cool feature in JavaScript that makes it easier to work with strings. You know, those pieces of text that you use in your code to say &quot;Engage!&quot; or to show your friend&apos;s name? Template strings help you combine text with variables in a more convenient way.</p>
-<h2 id="how-do-we-use-template-strings">How Do We Use Template Strings?</h2>
-<p>To create a template string, you use backticks (<code>` </code>) instead of single (<code>&apos;</code>) or double (<code>&quot;</code>) quotes. Backticks are usually found on the same key as the tilde (<code>~</code>) on your keyboard.</p>
-<h2 id="why-are-template-strings-better">Why Are Template Strings Better?</h2>
-<p>Well, imagine you have a crew member named Data, and you want to say hi to him using his name. Without template strings, you&apos;d have to do something like this:</p>
-<pre><code class="lang-javascript"><span class="hljs-keyword">let</span> name = <span class="hljs-string">&quot;Data&quot;</span>;
-<span class="hljs-keyword">let</span> greeting = <span class="hljs-string">&quot;Hello, Commander &quot;</span> + name + <span class="hljs-string">&quot;!&quot;</span>;
-</code></pre>
-<p>But with template strings, you can use placeholders to make your life easier. Placeholders are created using <code>${}</code> with the variable inside:</p>
-<pre><code class="lang-javascript"><span class="hljs-keyword">let</span> name = <span class="hljs-string">&quot;Data&quot;</span>;
-<span class="hljs-keyword">let</span> greeting = <span class="hljs-string">`Hello, Commander <span class="hljs-subst">${name}</span>!`</span>;
-</code></pre>
-<p>See how clean and simple it is? You don&apos;t need to use the + sign any more to combine text and variables.</p>
-<h2 id="more-cool-stuff">More Cool Stuff</h2>
-<p>Template strings also let you do other neat things:</p>
-<h3 id="multiline-strings">Multiline strings</h3>
-<p>You can create strings that span multiple lines just by pressing Enter. No need to use <code>\n</code> any more!</p>
-<pre><code class="lang-javascript"><span class="hljs-keyword">let</span> multiline = <span class="hljs-string">`Captain&apos;s Log,
-Stardate 43125.8,
-We have entered a new region of space.`</span>;
-</code></pre>
-<h3 id="expressions">Expressions</h3>
-<p>You can even do math or other calculations inside the placeholders:</p>
-<pre><code class="lang-javascript"><span class="hljs-keyword">let</span> warpFactor = <span class="hljs-number">9</span>;
-<span class="hljs-keyword">let</span> speed = <span class="hljs-number">2</span>;
-<span class="hljs-keyword">let</span> result = <span class="hljs-string">`Warp factor <span class="hljs-subst">${warpFactor}</span> is <span class="hljs-subst">${warpFactor * speed}</span> times faster than warp factor <span class="hljs-subst">${speed}</span>.`</span>;
-</code></pre>
-<h3 id="special-characters">Special characters</h3>
-<p>Template strings make it easy to include special characters in your text, like quotes or backslashes, without the need for escape characters:</p>
-<pre><code class="lang-javascript"><span class="hljs-keyword">let</span> quote = <span class="hljs-string">`Captain Picard once said, &quot;Make it so!&quot;`</span>;
-<span class="hljs-keyword">let</span> filePath = <span class="hljs-string">`C:\StarTrek\TNG`</span>;
-</code></pre>
-<h2 id="recap">Recap</h2>
-<p>Template strings are a great way to work with strings in JavaScript. They make it easy to combine text and variables using placeholders, create multiline strings, perform calculations, and include special characters. <strong>Just remember to use backticks (<code>` </code>) instead of single or double quotes</strong>, and you&apos;ll be boldly going where no coder has gone before!</p>
-<h2 id="further-reading">Further Reading</h2>
-<p>Click <a href="https://developer.chrome.com/blog/es6-template-strings/" target="_blank">here</a> to read even more about template strings!</p>
+                                <h1 id="buttons">Buttons</h1>
+<p>This week is all about adding interactivity to your web pages!</p>
+<h2 id="powerpoint-presentation">PowerPoint Presentation</h2>
+<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/ucs-js/Buttons/Buttons.pptx" width="100%" height="450px" frameborder="0"></iframe>
+
+<h2 id="code-along-hello-buttons">Code-Along: Hello, Buttons!</h2>
+<p><a href="https://replit.com/@HylandOutreach/JavaScriptStarter" target="_blank">Start by forking the <strong>JavaScript Starter</strong> repl.</a></p>
+<p>Name your fork <code>Hello Buttons</code>. Then, follow along with the instructor to:</p>
+<ol>
+<li>add a <code>&lt;button&gt;</code> to the web site</li>
+<li><em>define</em> a function in <strong>script.js</strong></li>
+<li><em>call</em> the function by clicking the button</li>
+</ol>
+<h2 id="self-paced-activity-tickle-me-elmo">Self-Paced Activity: Tickle Me Elmo</h2>
+<p><a href="https://replit.com/@HylandOutreach/TickleMeElmo" target="_blank">Click here and fork the repl to get started.</a></p>
+<p>The website has some HTML and JavaScript issues that we need you to fix ASAP! We want the button to make Elmo giggle.</p>
+<p>If you need more direction on this task, you can check out <a href="SelfPacedExercise.html">the help page</a>.</p>
 
                                 
                                 </section>
@@ -391,12 +370,12 @@ We have entered a new region of space.`</span>;
 
             
                 
-                <a href="CodeAlong.html" class="navigation navigation-prev " aria-label="Previous page: Math! Code-Along">
+                <a href="../DataTypes/TemplateStrings.html" class="navigation navigation-prev " aria-label="Previous page: Advanced: Template Strings">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="../Buttons/StudentDesc.html" class="navigation navigation-next " aria-label="Next page: 4/6: Buttons">
+                <a href="SelfPacedExercise.html" class="navigation navigation-next " aria-label="Next page: Self-Paced Exercise">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -407,7 +386,7 @@ We have entered a new region of space.`</span>;
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Advanced: Template Strings","level":"1.5.2","depth":2,"next":{"title":"4/6: Buttons","level":"1.6","depth":1,"path":"Buttons/StudentDesc.md","ref":"Buttons/StudentDesc.md","articles":[{"title":"Self-Paced Exercise","level":"1.6.1","depth":2,"path":"Buttons/SelfPacedExercise.md","ref":"Buttons/SelfPacedExercise.md","articles":[]}]},"previous":{"title":"Math! Code-Along","level":"1.5.1","depth":2,"path":"DataTypes/CodeAlong.md","ref":"DataTypes/CodeAlong.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"DataTypes/TemplateStrings.md","mtime":"2023-03-28T17:46:59.568Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2023-03-28T17:47:37.882Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"4/6: Buttons","level":"1.6","depth":1,"next":{"title":"Self-Paced Exercise","level":"1.6.1","depth":2,"path":"Buttons/SelfPacedExercise.md","ref":"Buttons/SelfPacedExercise.md","articles":[]},"previous":{"title":"Advanced: Template Strings","level":"1.5.2","depth":2,"path":"DataTypes/TemplateStrings.md","ref":"DataTypes/TemplateStrings.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Buttons/StudentDesc.md","mtime":"2023-03-28T17:46:59.544Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2023-03-28T17:47:37.882Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
