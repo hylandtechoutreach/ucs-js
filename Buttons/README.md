@@ -40,7 +40,12 @@ function sayHello() {
 ```
 
 ## Self-Paced Exercise: Tickle Me Elmo
-Have the students fork the [Tickle Me Elmo](https://replit.com/@HylandOutreach/TickleMeElmo) repl and fix the issues with it. The students should reference the [help page](SelfPacedExercise.md) if they get stuck.
+Have the students fork the [Tickle Me Elmo](https://replit.com/@HylandOutreach/TickleMeElmo) repl and fix the issues with it. The students should reference the [help page](SelfPacedExercise.md) when they get stuck (they will).
+
+Once everyone has had a chance to read some of the help page, explain what SCP is:
+> The [SCP website](https://scp-wiki.wikidot.com/) is a creative writing project where people share fictional stories about mysterious objects, creatures, or phenomena, known as SCPs, which are contained by a secret organization called the SCP Foundation. These stories often mix elements of science fiction, horror, and fantasy, creating a fascinating world where readers can explore the unusual and supernatural.
+>
+> SCP stands for **Secure, Contain, Protect**.
 
 With any remaining time, you could have the students:
 - change what Elmo says when he is tickled
