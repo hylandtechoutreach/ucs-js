@@ -8,6 +8,7 @@ This week is all about adding interactivity to your web pages!
 [Start by forking the **JavaScript Starter** repl.](https://replit.com/@HylandOutreach/JavaScriptStarter)
 
 Name your fork `Hello Buttons`. Then, follow along with the instructor to:
+
 1. add a `<button>` to the web site
 1. _define_ a function in **script.js**
 1. _call_ the function by clicking the button

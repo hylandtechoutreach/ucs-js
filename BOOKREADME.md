@@ -12,11 +12,10 @@ Material for each lesson is linked below.
 - [**3/16**: Introduction Review](IntroReview/StudentDesc.md)
 - **NO ACADEMIES 3/23**
 - [**3/30**: Data Types](DataTypes/StudentDesc.md)
-- [**4/6**: Buttons](Buttons/StudentDesc.md)
-- **4/13**: Conditionals
-- **4/20**: Review
-- **4/27**: Libraries
-- **5/4**: Review and Final Project Introduction
+- [**4/13**: Buttons](Buttons/StudentDesc.md)
+- **4/20**: Conditionals
+- **4/27**: Review
+- **5/4**: Libraries
 - **5/11**: Final Project Work
 - **5/18**: Final Project Presentations
 
