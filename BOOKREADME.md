@@ -15,7 +15,7 @@ Material for each lesson is linked below.
 - **NO ACADEMIES 4/6**
 - [**4/13**: Buttons](Buttons/StudentDesc.md)
 - [**4/20**: Review](Review/StudentDesc.md)
-- **4/27**: Conditionals
+- [**4/27**: Conditionals](Conditionals/StudentDesc.md)
 - **5/4**: Libraries
 - **5/11**: Final Project Work
 - **5/18**: Final Project Presentations

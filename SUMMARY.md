@@ -13,3 +13,8 @@
 - [4/20: Review](Review/StudentDesc.md)
   - [Warm-Up](Review/CookieHackerWarmUp.md)
   - [Self-Paced Work](Review/CandyFarmSelfPacedWork.md)
+- [4/27: Conditionals](Conditionals/StudentDesc.md)
+  - [Debugging](Conditionals/ConditionalDebugging.md)
+  - [Code-Along](Conditionals/ChatbotCodeAlong.md)
+  - [Challenges](Conditionals/Challenges.md)
+  
