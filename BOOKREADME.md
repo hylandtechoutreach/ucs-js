@@ -16,7 +16,7 @@ Material for each lesson is linked below.
 - [**4/13**: Buttons](Buttons/StudentDesc.md)
 - [**4/20**: Review](Review/StudentDesc.md)
 - [**4/27**: Conditionals](Conditionals/StudentDesc.md)
-- **5/4**: Libraries
+- [**5/4**: More Possibilities](Possibilities/StudentDesc.md)
 - **5/11**: Final Project Work
 - **5/18**: Final Project Presentations
 

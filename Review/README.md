@@ -24,7 +24,7 @@ Students should follow [the instructions](CandyFarmSelfPacedWork.md) to fix some
 |-|-|
 | Warm-Up | 5m |
 | Lecture | 10m |
-| Blooket | 15m |
+| Formative Assessment | 15m |
 | Team Review | 15m |
 | Self-Paced Work | 10m |
 | Survey | 5m |

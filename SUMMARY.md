@@ -17,4 +17,10 @@
   - [Debugging](Conditionals/ConditionalDebugging.md)
   - [Code-Along](Conditionals/ChatbotCodeAlong.md)
   - [Challenges](Conditionals/Challenges.md)
-  
+- [5/4: Possibilities](Possibilities/StudentDesc.md)
+  - [Canvas](Possibilities/Canvas.md)
+  - [CSS Tricks](Possibilities/CssTricks.md)
+  - [Processing](Possibilities/Processing.md)
+  - [Phaser](Possibilities/Phaser.md)
+  - [jQuery](Possibilities/jQuery.md)
+  - [More](Possibilities/More.md)
