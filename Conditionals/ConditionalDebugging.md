@@ -3,7 +3,6 @@ One of the most important parts of programming is [debugging](https://en.wikiped
 
 [**Click here to view the starter Repl project.**](https://replit.com/@HylandOutreach/IfDebugTime) Fork the project to begin.
 
-## 0. Background
 Start by testing out the buttons to see how they work. You may notice that each of these buttons has an issue. This is a serious problem. You need to fix all these problems.
 
 All changes should take place in the **script.js** file.
