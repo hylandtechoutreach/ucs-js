@@ -23,8 +23,5 @@ Material for each lesson is linked below.
 ## ChatGPT
 [Click here to go to ChatGPT.](https://chat.openai.com/)
 
-## Weekly Check-in
-[Click here to complete the weekly check-in survey.](https://forms.gle/Ax6GpB9eHtfvYnPR8)
-
 ## End-of-Trimester Survey/Assessment
-[Click here for the form.](TODO)
+[Click here for the form.](https://forms.gle/fw8vzhZjbDPf4y1x6)
