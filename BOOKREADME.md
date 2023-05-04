@@ -17,7 +17,7 @@ Material for each lesson is linked below.
 - [**4/20**: Review](Review/StudentDesc.md)
 - [**4/27**: Conditionals](Conditionals/StudentDesc.md)
 - [**5/4**: More Possibilities](Possibilities/StudentDesc.md)
-- **5/11**: Final Project Work
+- [**5/11**: Final Project Work](FinalProjectWork/StudentDesc.md)
 - **5/18**: Final Project Presentations
 
 ## ChatGPT
