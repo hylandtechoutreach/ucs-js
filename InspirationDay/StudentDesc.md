@@ -32,6 +32,9 @@ It is surprisingly easy to start building a 3D world on the web. [A-Frame](https
 - [Starter Project](https://vscodeedu.com/LkU7Ut9hexlxZMrtJF9t)
   - _note: the Preview does not work for A-Frame, projects must be Published and opened in new windows_
 - [Cool Possibilities of A-Frame](https://aframe.io/aframe-registry/)
+- [Environment Basics](https://github.com/supermedium/aframe-environment-component)
+- [3D Models](https://github.com/KhronosGroup/glTF-Sample-Assets/blob/main/Models/Models.md)
+  - [Example](https://crimson-calm-kangaroo-558.vscodeedu.app) | [Source](https://vscodeedu.com/7Y6xqa2bLz9ZO6HLP142)
 
 A-Frame is built on top of [three.js](https://threejs.org/), an easy-to-use, lightweight, cross-browser, general-purpose 3D library.
 
