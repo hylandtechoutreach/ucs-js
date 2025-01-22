@@ -37,9 +37,6 @@ Instruct the students to add more questions to their chatbot with the time remai
 
 One of the instructors should do this exercise on the big screen along with the students.
 
-## Survey
-Have the students complete the [weekly check-in survey](https://forms.gle/Ax6GpB9eHtfvYnPR8).
-
 ## Agenda
 
 | Activity | Time |

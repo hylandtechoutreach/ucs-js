@@ -1,28 +1,10 @@
 # HTML & CSS Review Code-Along
-Start by forking [this empty Repl](https://replit.com/@HylandOutreach/EmptyWeb), then follow the instructions below to build a simple webpage!
+Start by opening [this project](https://vscodeedu.com/trmSVM0us0OsxkclNSk5), then follow the instructions below to build a simple webpage! We will be creating a fan site - the instructions are about Fortnite, but you can be a fan of anything at all (as long as it's school appropriate)!
 
-To fork the Repl, click the "Fork Repl" button on the page:
+Make sure to click "Save a Copy & Edit" to create your own version of the project.
 
-![](../Assets/ForkRepl.png)
-
-## Add the Basic HTML Elements
-Add the foundational elements to the **index.html** file. Start with `<html></html>`, then add `<head></head>` and `<body></body>` between the `html` tags.
-
-<input type="checkbox" id="reveal1" class="reveal-checkbox" />
-
-<label for="reveal1" class="reveal-label">👀 Click to Reveal Code 👀</label>
-
-```html
-<html>
-    <head>
-    </head>
-    <body>
-    </body>
-</html>
-```
-
-## Add a Main Header
-Between the opening and closing `body` tags, add an `h3` element. Within the `h3` element, add the proper text.
+## Update the Main Header
+Between the opening and closing `body` tags, find the `h3` element. Within the `h3` element, add the proper text.
 
 <input type="checkbox" id="reveal2" class="reveal-checkbox" />
 
@@ -85,9 +67,9 @@ Under the `h3`, create a `p` element. Between the opening and closing tags, desc
 ```
 
 ## Add a Background Style
-Now it's time to add some style. Between the opening and closing `head` tags, add a `style` element.
+Now it's time to add some style. Between the opening and closing `head` tags, find the `style` element.
 
-Add a ruleset to the `style` element that will select the `body` (all the content on the page). Within the ruleset, set the `background` property to `black`, and the `color` property to `white`.
+Within the `body` ruleset, set the `background` property to `black`, and the `color` property to `white`.
 
 <input type="checkbox" id="reveal7" class="reveal-checkbox" />
 
@@ -101,6 +83,8 @@ Add a ruleset to the `style` element that will select the `body` (all the conten
     }
 </style>
 ```
+
+Feel free to change the font too!
 
 ## Add an Image Style
 Currently, the image might be a little big. Use CSS to update its size. Add another ruleset to the `style` element that will select the `img`. Within the ruleset, set the `height` property to `200px`.
@@ -154,6 +138,8 @@ That's it! The Fortnite Fan Site looks pretty good.
             body {
                 background: black;
                 color: white;
+                font-family: "Dancing Script", cursive;
+                text-align: center;
             }
             img {
                 height: 200px;

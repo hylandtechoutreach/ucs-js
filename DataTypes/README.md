@@ -33,9 +33,6 @@ Ask the students what happens to the old value when an existing variable gets se
 ## Code-Along: Math!
 Have the students follow along with a [JavaScript math experiment](CodeAlong.md). There is an additional challenge at the end in case there are superachievers in the class.
 
-## Survey
-Have the students complete the [weekly check-in survey](https://forms.gle/Ax6GpB9eHtfvYnPR8) to get an idea of how they're feeling.
-
 ## Agenda
 
 | Activity | Time |
@@ -44,4 +41,3 @@ Have the students complete the [weekly check-in survey](https://forms.gle/Ax6GpB
 | Lecture: Data Types | 15m |
 | Activity | 10m |
 | Code-Along | 15m |
-| Survey | 5m |

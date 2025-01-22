@@ -14,8 +14,10 @@ This warm-up should help us determine what type of candy to buy. It is a candy t
 
 Use [this bracket](https://brackethq.com/b/uzgeb/) to facilitate the tournament. It will be necessary to log into Bracket HQ as Joseph, or create a new account and re-create the bracket. From there, start the tournament, click on each matchup, and have students vote on each winner!
 
-## Team Repl
-Instructors should follow [the instructions](TeamReplInstructorInstructions.md) to facilitate this activity. Have students join the [Team Repl in Multiplayer mode](https://replit.com/join/qlopumkkfx-hylandoutreach), and then guide them through the process of updating the website project together.
+## DEPRECATED: Team Repl
+We no longer use Replit, so this is not possible.
+
+_Instructors should follow [the instructions](TeamReplInstructorInstructions.md) to facilitate this activity. Have students join the [Team Repl in Multiplayer mode](https://replit.com/join/qlopumkkfx-hylandoutreach), and then guide them through the process of updating the website project together._
 
 ## Self-Paced Exercises
 Introduce the [self-paced exercises](SelfPacedExercises.md), and have the students work on it. During this time, encourage the students to be silent by teasing the review bracket seeding: if students are silent, they will be seeded higher, which means they will have an easier path to victory through the tournament.

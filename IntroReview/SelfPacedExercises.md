@@ -2,23 +2,25 @@
 Complete these exercises.
 
 ## Bug Fixing
-Find and fix all the issues with these projects. Start by forking and running the linked the Repl projects; the webpages themselves explain the bugs.
+Find and fix all the issues with these projects. Start by forking and running the linked the projects; the webpages themselves explain the bugs.
 
-- [Bug 1](https://replit.com/@HylandOutreach/IntroReviewBug-1)
-- [Bug 2](https://replit.com/@HylandOutreach/IntroReviewBug-2)
-- [Bug 3](https://replit.com/@HylandOutreach/IntroReviewBug-3)
-- [Bug 4](https://replit.com/@HylandOutreach/IntroReviewBug-4)
-- [Bug 5](https://replit.com/@HylandOutreach/IntroReviewBug-5)
-- [Bug 6](https://replit.com/@HylandOutreach/IntroReviewBug-6)
-- [Bug 7](https://replit.com/@HylandOutreach/IntroReviewBug-7)
+IMPORTANT NOTE: Make sure to click Publish Site and view the project in a new window to see it function.
+
+- [Bug 1](https://vscodeedu.com/f62bALTY9WUpkaMexA1G)
+- [Bug 2](https://vscodeedu.com/ypcTaj3sq49McAOeC7HT)
+- [Bug 3](https://vscodeedu.com/TIF17RSchn4U01RZPTmr)
+- [Bug 4](https://vscodeedu.com/FwjJZkKbr1jjq6LHLh7V)
+- [Bug 5](https://vscodeedu.com/4JIaEwbyMlNRSoumzsiR)
+- [Bug 6](https://vscodeedu.com/0OUZ1pEQGIg9DFG9MJ4S)
+- [Bug 7](https://vscodeedu.com/exjed4r3Dl5sotuEs3pc)
 
 ## Variable Customization
 There is a Repl project that builds a webpage from a bunch of different variables. Update the values of those variables to change how the webpage ends up looking!
 
-1. [Click here for the **Variable Customization** Repl project.](https://replit.com/@HylandOutreach/VariableCustomization)
-1. Fork the project
-1. In the project, open the **script.js** file
-1. Update the values of the following variables:
+1. [Click here for the **Variable Customization** project.](https://vscodeedu.com/5wSEfNAcbDZ5kBBgwh4Z)
+2. Save a copy of the project
+3. In the project, open the **script.js** file
+4. Update the values of the following variables:
     - `backgroundColor`
     - `textColor`
     - `pet` (figure out which ones have pictures!)
@@ -28,6 +30,7 @@ There is a Repl project that builds a webpage from a bunch of different variable
     - `sport`
     - `anyNumber`
     - `spinTime`
+    - `spEmoji`
 
 Make sure to keep all variables in the proper form, with:
 

@@ -1,27 +1,27 @@
 # Hyland JavaScript Academy @ UCS
 Thank you for participating in this program! Please bookmark this page 😁
 
-## Replit
-[Click here to go to Replit - this is where you can write code for your websites!](https://replit.com/)
+## VS Code for Education
+[Click here to go to VS Code for Education - this is where you can write code for your websites!](https://vscodeedu.com/my-work/projects)
 
 ## Schedule
 Material for each lesson is linked below.
 
-- [**3/2**: Kick-Off: HTML and CSS Review](HtmlCssReview/StudentDesc.md)
-- [**3/9**: Introduction to JavaScript](IntroToJS/StudentDesc.md)
-- [**3/16**: Introduction Review](IntroReview/StudentDesc.md)
-- **NO ACADEMIES 3/23**
-- [**3/30**: Data Types](DataTypes/StudentDesc.md)
-- **NO ACADEMIES 4/6**
-- [**4/13**: Buttons](Buttons/StudentDesc.md)
-- [**4/20**: Review](Review/StudentDesc.md)
-- [**4/27**: Conditionals](Conditionals/StudentDesc.md)
-- [**5/4**: More Possibilities](Possibilities/StudentDesc.md)
-- [**5/11**: Final Project Work](FinalProjectWork/StudentDesc.md)
-- **5/18**: Final Project Presentations
-
-## ChatGPT
-[Click here to go to ChatGPT.](https://chat.openai.com/)
-
-## End-of-Trimester Survey/Assessment
-[Click here for the form.](https://forms.gle/fw8vzhZjbDPf4y1x6)
+| Date | Lesson |
+|-|-|
+| ✨ **February 13** | [Inspiration Day](InspirationDay/StudentDesc.md) |
+| **February 20** | NO ACADEMIES |
+| **February 27** | [HTML/CSS Review](HtmlCssReview/StudentDesc.md) |
+| **March 6** | [Introduction to JavaScript](IntroToJS/StudentDesc.md) |
+| **March 13** | [Introduction Review](IntroReview/StudentDesc.md) |
+| **March 20** | [Data Types](DataTypes/StudentDesc.md) |
+| **March 27** | 🌷 SPRING BREAK 🌷 |
+| **April 3** | [Review](DataTypesReview/StudentDesc.md) |
+| **April 10** | [Buttons](Buttons/StudentDesc.md) |
+| **April 17** | [Review](Review/StudentDesc.md) |
+| **April 24** | [Conditionals](Conditionals/StudentDesc.md) |
+| **May 1** | [Review](ConditionalsReview/StudentDesc.md) |
+| **May 8** | [More Possibilities](Possibilities/StudentDesc.md) |
+| **May 15** | [Final Project Work](FinalProjectWork/StudentDesc.md) |
+| **May 22** | Final Project Presentations |
+| **May 29** | [Game Day](GameDay/StudentDesc.md) |

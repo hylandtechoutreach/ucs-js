@@ -1,7 +1,5 @@
 # Basic Chatbot Code-Along
-For this exercise, start by forking [this empty Repl](https://replit.com/@HylandOutreach/EmptyWeb).
-
-![](../Assets/ForkRepl.png)
+For this exercise, start by saving a copy of [this project](https://vscodeedu.com/T8NQGeg71xRk84ycSHvW).
 
 Then, follow along with the instructor to build a little text-based JavaScript program. The program will `prompt` the user with a question and will then reply back with an `alert` message containing the user's answer.
 
