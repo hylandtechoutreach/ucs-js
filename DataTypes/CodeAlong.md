@@ -1,8 +1,8 @@
 # Math! Code-Along
-Start by forking the [JavaScript Starter Repl](https://replit.com/@HylandOutreach/JavaScriptStarter), then follow along as a group to perform a math experiment! You can name your fork something like `Math!` so it's easy for you to find later.
+Start by copying the [JavaScript Starter Project](), then follow along as a group to perform a math experiment! You can name your fork something like `Math!` so it's easy for you to find later.
 
 ## Set Up the Experiment
-Click **script.js** to open the file in the Replit editor pane.
+Click **script.js** to open the file in the editor pane.
 
 Write the code that will `prompt` the user for their favorite number between 1 and 9 and store their answer in a new variable named `first`.
 
