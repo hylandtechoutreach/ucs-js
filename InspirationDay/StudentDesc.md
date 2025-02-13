@@ -54,3 +54,6 @@ You can do a lot using the HTML5 Canvas and JavaScript.
 - [Game Making Tutorial](https://www.w3schools.com/graphics/game_intro.asp)
 - [Game Example: Merge Blocks](https://catching-walnut-lamp-683.vscodeedu.app/)
   - [Source Code](https://vscodeedu.com/BLr9IHWitmKBN3mtxYCW)
+
+## Interest Form
+When you're done exploring, [click here to fill out the interest form.](https://forms.office.com/r/UUcirZwu3z)
