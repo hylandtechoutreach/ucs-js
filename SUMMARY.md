@@ -1,6 +1,6 @@
 - [Hyland JS Academy @ UCS](BOOKREADME.md)
-- [🌟 2/13: Inspiration Day](InspirationDay/StudentDesc.md)
-- [2/27: Kick-Off: HTML and CSS Review](HtmlCssReview/StudentDesc.md)
+- [2/13: Inspiration Day](InspirationDay/StudentDesc.md)
+- [✨ 2/27: Kick-Off: HTML and CSS Review](HtmlCssReview/StudentDesc.md)
   - [Fortnite Code-Along](HtmlCssReview/HtmlCssReviewCodeAlong.md)
 - [3/6: Introduction to JavaScript](IntroToJS/StudentDesc.md)
   - [Chatbot Code-Along](IntroToJS/IntroToJSCodeAlong.md)
