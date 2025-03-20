@@ -1,5 +1,5 @@
 # Math! Code-Along
-Start by copying the [JavaScript Starter Project](), then follow along as a group to perform a math experiment! You can name your fork something like `Math!` so it's easy for you to find later.
+Start by copying the [JavaScript Starter Project](https://vscodeedu.com/JMoFoFMdRpj0fjJ0akvZ), then follow along as a group to perform a math experiment! You can name your fork something like `Math!` so it's easy for you to find later.
 
 ## Set Up the Experiment
 Click **script.js** to open the file in the editor pane.
