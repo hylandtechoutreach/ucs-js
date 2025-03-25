@@ -2,7 +2,7 @@
 In this lesson we will review content from HTML and CSS.
 
 ## Icebreaker
-Previous mad-libs icebreaker has been deprecated. Here's a new one: [mad libs](https://drawing-happy-truck-667.vscodeedu.app/).
+Previous mad-libs icebreaker has been deprecated. Here's a new one: [mad libs](https://clay-happy-law-195.vscodeedu.app/).
 
 ## Code-Along: HTML & CSS Review
 Walk through [the code-along instructions](HtmlCssReviewCodeAlong.md) with the students to create a fan web site. Go slowly to be sure everyone is following along.
