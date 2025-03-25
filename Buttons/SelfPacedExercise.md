@@ -51,5 +51,3 @@ During the initial analysis of `SCP-28105`, research personnel Dr. A████
 Following the identification of the aforementioned anomalies, Dr. A█████ and Dr. S███████ attempted to correct the code and test the functionality of the Tickle button. Upon fixing the issues, both researchers began to display symptoms of `SCP-28105-A` at an accelerated rate, progressing to Stage 3 within █ hours.
 
 Security personnel were alerted to the situation and promptly intervened, administering Class-B amnestics to both researchers and removing them from `SCP-28105`-related projects.
-
-![](../Assets/elmo.png)

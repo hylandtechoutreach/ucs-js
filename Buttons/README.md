@@ -15,10 +15,10 @@ Use [this presentation](Buttons.pptx) to introduce:
   - how to define them
   - how to call them
 
-The last slide is a link to the [Button Example](https://replit.com/@HylandOutreach/ButtonExample) repl. Note the syntax of each piece of the code.
+The last slide is a link to the [Button Example](https://vscodeedu.com/WY9oFCLBca3Zs5dY7E6u) project. Note the syntax of each piece of the code.
 
 ## Code-Along: Hello, Buttons!
-Walk through adding a button to the [JavaScript Starter](https://replit.com/@HylandOutreach/JavaScriptStarter) repl. The button should call a function that should display an alert that says `Hello!`, similar to the example we just saw at the end of the lecture.
+Walk through adding a button to the [JavaScript Starter](https://vscodeedu.com/JMoFoFMdRpj0fjJ0akvZ) project. The button should call a function that should display an alert that says `Hello!`, similar to the example we just saw at the end of the lecture.
 
 Here's the gist:
 
@@ -40,7 +40,7 @@ function sayHello() {
 ```
 
 ## Self-Paced Exercise: Tickle Me Elmo
-Have the students fork the [Tickle Me Elmo](https://replit.com/@HylandOutreach/TickleMeElmo) repl and fix the issues with it. The students should reference the [help page](SelfPacedExercise.md) when they get stuck (they will).
+Have the students copy the [Tickle Me Elmo](https://vscodeedu.com/FCDuELAuHHdXt0HZkAq6) project and fix the issues with it. The students should reference the [help page](SelfPacedExercise.md) when they get stuck (they will).
 
 Once everyone has had a chance to read some of the help page, explain what SCP is:
 > The [SCP website](https://scp-wiki.wikidot.com/) is a creative writing project where people share fictional stories about mysterious objects, creatures, or phenomena, known as SCPs, which are contained by a secret organization called the SCP Foundation. These stories often mix elements of science fiction, horror, and fantasy, creating a fascinating world where readers can explore the unusual and supernatural.
@@ -52,9 +52,6 @@ With any remaining time, you could have the students:
 - change the background color to something other than black
 - add a title to the web page
 
-## Survey
-Give time for some quality feedback!
-
 ## Agenda
 
 | Activity | Time |
@@ -63,5 +60,4 @@ Give time for some quality feedback!
 | Review | 10m |
 | Lecture | 15m |
 | Code-Along | 10m |
-| Self-Paced Exercise | 15m | 
-| Survey | 5m |
+| Self-Paced Exercise | 15m |

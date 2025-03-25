@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Chatbot Code-Along · GitBook</title>
+        <title>Soundboard Code-Along · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -63,7 +63,7 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../IntroReview/StudentDesc.html" />
+    <link rel="next" href="SelfPacedExercise.html" />
     
     
     <link rel="prev" href="StudentDesc.html" />
@@ -153,9 +153,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4" data-path="StudentDesc.html">
+        <li class="chapter " data-level="1.4" data-path="../IntroToJS/StudentDesc.html">
             
-                <a href="StudentDesc.html">
+                <a href="../IntroToJS/StudentDesc.html">
             
                     
                     3/6: Introduction to JavaScript
@@ -167,9 +167,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter active" data-level="1.4.1" data-path="IntroToJSCodeAlong.html">
+        <li class="chapter " data-level="1.4.1" data-path="../IntroToJS/IntroToJSCodeAlong.html">
             
-                <a href="IntroToJSCodeAlong.html">
+                <a href="../IntroToJS/IntroToJSCodeAlong.html">
             
                     
                     Chatbot Code-Along
@@ -294,9 +294,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.8" data-path="../Buttons/StudentDesc.html">
+        <li class="chapter " data-level="1.8" data-path="StudentDesc.html">
             
-                <a href="../Buttons/StudentDesc.html">
+                <a href="StudentDesc.html">
             
                     
                     4/10: Buttons
@@ -308,9 +308,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.8.1" data-path="../Buttons/SoundboardCodeAlong.html">
+        <li class="chapter active" data-level="1.8.1" data-path="SoundboardCodeAlong.html">
             
-                <a href="../Buttons/SoundboardCodeAlong.html">
+                <a href="SoundboardCodeAlong.html">
             
                     
                     Soundboard Code-Along
@@ -321,9 +321,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.8.2" data-path="../Buttons/SelfPacedExercise.html">
+        <li class="chapter " data-level="1.8.2" data-path="SelfPacedExercise.html">
             
-                <a href="../Buttons/SelfPacedExercise.html">
+                <a href="SelfPacedExercise.html">
             
                     
                     Self-Paced Exercise
@@ -666,7 +666,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >Chatbot Code-Along</a>
+        <a href=".." >Soundboard Code-Along</a>
     </h1>
 </div>
 
@@ -681,54 +681,97 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="basic-chatbot-code-along">Basic Chatbot Code-Along</h1>
-<p>For this exercise, start by saving a copy of <a href="https://vscodeedu.com/T8NQGeg71xRk84ycSHvW" target="_blank">this project</a>.</p>
-<p>Then, follow along with the instructor to build a little text-based JavaScript program. The program will <code>prompt</code> the user with a question and will then reply back with an <code>alert</code> message containing the user&apos;s answer.</p>
-<h2 id="create-the-javascript-file">Create the JavaScript File</h2>
-<p>In the <strong>Files</strong> section on the left, click the <strong>New file</strong> button. Give the new file a name of <code>script.js</code>.</p>
-<p>Within the <strong>script.js</strong> file, add a statement that will show a welcome message to the user.</p>
-<input type="checkbox" id="reveal1" class="reveal-checkbox">
-
-<label for="reveal1" class="reveal-label">&#x1F440; Click to Reveal Code &#x1F440;</label>
-
-<pre><code class="lang-js">alert(<span class="hljs-string">&quot;Welcome to the chatbot!&quot;</span>);
-</code></pre>
-<h2 id="link-the-javascript-file">Link the JavaScript File</h2>
+                                <h1 id="code-along-darth-vader-soundboard">Code-Along: Darth Vader &quot;Sound&quot;board</h1>
+<p>Create a new webpage featuring buttons that will say some Darth Vader quotes.</p>
+<ul>
+<li><a href="https://diligent-arctic-bus-911.vscodeedu.app/" target="_blank">Click here for an example of a board with real sound</a> | (<a href="https://vscodeedu.com/2j2sbP5AiGyJxcsVRBXe" target="_blank">edit</a>)</li>
+<li><a href="https://www.quora.com/What-are-some-famous-Darth-Vader-quotes" target="_blank">Click here for Darth Vader quote source</a></li>
+</ul>
+<h2 id="part-1---basic-elements">Part 1 - Basic Elements</h2>
+<p>Add some basic elements to the webpage, and update a couple styles.</p>
 <ol>
-<li>In the <strong>index.html</strong>, add a <code>&lt;head&gt;&lt;/head&gt;</code> element</li>
-<li>Within the <code>&lt;head&gt;&lt;/head&gt;</code> element, add a <code>&lt;script&gt;&lt;/script&gt;</code> element</li>
-<li>Add a <code>src</code> attribute to the <code>&lt;script&gt;</code> opening tag to point to the <code>script.js</code> file</li>
+<li>In the <strong>index.html</strong> file, in the <code>&lt;body&gt;&lt;/body&gt;</code> element, add an <code>&lt;h1&gt;&lt;/h1&gt;</code> header that says &quot;Darth Vader Soundboard&quot;</li>
+<li>Beneath the <code>&lt;h1&gt;</code>, add a <code>&lt;p&gt;&lt;/p&gt;</code> paragraph</li>
+<li>Within the <code>&lt;p&gt;&lt;/p&gt;</code>, add an <code>&lt;img /&gt;</code> with its <code>src</code> attribute set to <code>&quot;https://lumiere-a.akamaihd.net/v1/images/Darth-Vader_6bda9114.jpeg&quot;</code></li>
+<li>In the <strong>style.css</strong> file, set the page&apos;s background color to <code>black</code> and text color to <code>red</code></li>
 </ol>
-<input type="checkbox" id="reveal2" class="reveal-checkbox">
-
-<label for="reveal2" class="reveal-label">&#x1F440; Click to Reveal Code &#x1F440;</label>
-
+<p>At this point, the code should look something like this:</p>
+<p><strong>index.html</strong></p>
 <pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
     <span class="hljs-tag">&lt;<span class="hljs-name">head</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">link</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;style.css&quot;</span> <span class="hljs-attr">rel</span>=<span class="hljs-string">&quot;stylesheet&quot;</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;text/css&quot;</span>&gt;</span>
         <span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;script.js&quot;</span>&gt;</span><span class="undefined"></span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
     <span class="hljs-tag">&lt;/<span class="hljs-name">head</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>Darth Vader Soundboard<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://lumiere-a.akamaihd.net/v1/images/Darth-Vader_6bda9114.jpeg&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
 <span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
 </code></pre>
-<p>Run the webpage, and make sure the <code>alert()</code> pop-up with the message appears!</p>
-<blockquote>
-<p><em>Note: a <code>&lt;body&gt;&lt;/body&gt;</code> is not required for this HTML page.</em></p>
-</blockquote>
-<h2 id="ask-a-question">Ask a Question</h2>
-<p>Ask the user for their name and show a text box to the user allowing them to type their answer. Be sure to choose a descriptive variable name to store this value!</p>
-<input type="checkbox" id="reveal3" class="reveal-checkbox">
-
-<label for="reveal3" class="reveal-label">&#x1F440; Click to Reveal Code &#x1F440;</label>
-
-<pre><code class="lang-js"><span class="hljs-keyword">let</span> username = prompt(<span class="hljs-string">&quot;What&apos;s your name?&quot;</span>);
+<p><strong>style.css</strong></p>
+<pre><code class="lang-css"><span class="hljs-selector-tag">body</span> {
+    <span class="hljs-attribute">background</span>: black;
+    <span class="hljs-attribute">color</span>: red;
+}
 </code></pre>
-<h2 id="display-a-reply">Display a Reply</h2>
-<p>Show the user a formatted message containing their name.</p>
-<input type="checkbox" id="reveal4" class="reveal-checkbox">
-
-<label for="reveal4" class="reveal-label">&#x1F440; Click to Reveal Code &#x1F440;</label>
-
-<pre><code class="lang-js">alert(<span class="hljs-string">&quot;Cool! I love the name &apos;&quot;</span> + username + <span class="hljs-string">&quot;&apos;. I think it means &apos;smart.&apos;&quot;</span>);
+<h2 id="part-2---button-with-quote">Part 2 - Button With Quote</h2>
+<p>Add a button which will display a Darth Vader quote when clicked.</p>
+<ol>
+<li>In the <strong>index.html</strong> file, under the <code>&lt;p&gt;</code> in the <code>&lt;body&gt;&lt;/body&gt;</code>, add a <code>&lt;button&gt;</code> element that says &quot;Technological Terror&quot;</li>
+<li>In the <strong>script.js</strong> file, <em>define a function</em> named <code>technologicalTerror</code><ul>
+<li>Start with the <code>function</code> keyword</li>
+<li>Next, add a space and the function name</li>
+<li>Next, add left and right parentheses</li>
+<li>Finally, add left and right curly brackets</li>
+</ul>
+</li>
+<li>In the body of the <code>technologicalTerror</code> function (between <code>{</code> and <code>}</code>), add an <code>alert</code> statement that says &quot;Don&apos;t be too proud of this technological terror you&apos;ve constructed. The ability to destroy a planet is insignificant next to the power of the Force.&quot;</li>
+<li>Back in the <strong>index.html</strong> file, add the <code>onclick</code> attribute to the <code>&lt;button&gt;</code> and make it <em>call</em> the <code>technologicalTerror</code> function</li>
+</ol>
+<p>The added code should look something like this:</p>
+<p><strong>index.html</strong></p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">button</span> <span class="hljs-attr">onclick</span>=<span class="hljs-string">&quot;technologicalTerror()&quot;</span>&gt;</span>Technological Terror<span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span>
 </code></pre>
+<p><strong>script.js</strong></p>
+<pre><code class="lang-js"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">technologicalTerror</span>(<span class="hljs-params"></span>) </span>{
+    alert(<span class="hljs-string">&quot;Don&apos;t be too proud of this technological terror you&apos;ve constructed. The ability to destroy a planet is insignificant next to the power of the Force.&quot;</span>);
+}
+</code></pre>
+<p>Run the project, click on the &quot;Technological Terror&quot; button, and ensure that the quote appears!</p>
+<h2 id="part-3---more-buttons">Part 3 - More buttons</h2>
+<p>Follow the same steps as above to add more buttons! See below for a list of quotes, each with accompanying button text and function name.</p>
+<table>
+<thead>
+<tr>
+<th>Button Text</th>
+<th>Function Name</th>
+<th>Quote</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Faith</td>
+<td><code>faith</code></td>
+<td>I find your lack of faith disturbing.</td>
+</tr>
+<tr>
+<td>Presence</td>
+<td><code>presence</code></td>
+<td>I sense something. A presence I have not felt since...</td>
+</tr>
+</tbody>
+</table>
+<p>For each of these quotes:</p>
+<ul>
+<li>Create a new <code>&lt;button&gt;</code> element in the <strong>index.html</strong> file</li>
+<li>Define a new function in the <strong>script.js</strong> file</li>
+<li>In the body of the new function, use an <code>alert</code> to display the quote</li>
+<li>Hook up the <code>&lt;button&gt;</code> in the <strong>index.html</strong> file to the function by setting its <code>onclick</code> attribute<ul>
+<li>It should <em>call</em> the function using the name from the <strong>script.js</strong> file</li>
+</ul>
+</li>
+</ul>
+<p>Make sure to test that each button works after the function has been defined and called!</p>
 
                                 
                                 </section>
@@ -756,12 +799,12 @@
 
             
                 
-                <a href="StudentDesc.html" class="navigation navigation-prev " aria-label="Previous page: 3/6: Introduction to JavaScript">
+                <a href="StudentDesc.html" class="navigation navigation-prev " aria-label="Previous page: 4/10: Buttons">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="../IntroReview/StudentDesc.html" class="navigation navigation-next " aria-label="Next page: 3/13: Introduction Review">
+                <a href="SelfPacedExercise.html" class="navigation navigation-next " aria-label="Next page: Self-Paced Exercise">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -772,7 +815,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Chatbot Code-Along","level":"1.4.1","depth":2,"next":{"title":"3/13: Introduction Review","level":"1.5","depth":1,"path":"IntroReview/StudentDesc.md","ref":"IntroReview/StudentDesc.md","articles":[{"title":"Self-Paced Exercises","level":"1.5.1","depth":2,"path":"IntroReview/SelfPacedExercises.md","ref":"IntroReview/SelfPacedExercises.md","articles":[]}]},"previous":{"title":"3/6: Introduction to JavaScript","level":"1.4","depth":1,"path":"IntroToJS/StudentDesc.md","ref":"IntroToJS/StudentDesc.md","articles":[{"title":"Chatbot Code-Along","level":"1.4.1","depth":2,"path":"IntroToJS/IntroToJSCodeAlong.md","ref":"IntroToJS/IntroToJSCodeAlong.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"}},"file":{"path":"IntroToJS/IntroToJSCodeAlong.md","mtime":"2025-03-25T15:19:19.918Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2025-03-25T15:19:49.297Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Soundboard Code-Along","level":"1.8.1","depth":2,"next":{"title":"Self-Paced Exercise","level":"1.8.2","depth":2,"path":"Buttons/SelfPacedExercise.md","ref":"Buttons/SelfPacedExercise.md","articles":[]},"previous":{"title":"4/10: Buttons","level":"1.8","depth":1,"path":"Buttons/StudentDesc.md","ref":"Buttons/StudentDesc.md","articles":[{"title":"Soundboard Code-Along","level":"1.8.1","depth":2,"path":"Buttons/SoundboardCodeAlong.md","ref":"Buttons/SoundboardCodeAlong.md","articles":[]},{"title":"Self-Paced Exercise","level":"1.8.2","depth":2,"path":"Buttons/SelfPacedExercise.md","ref":"Buttons/SelfPacedExercise.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"}},"file":{"path":"Buttons/SoundboardCodeAlong.md","mtime":"2025-03-25T15:19:19.889Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2025-03-25T15:19:49.297Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

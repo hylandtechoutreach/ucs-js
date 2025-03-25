@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Chatbot Code-Along · GitBook</title>
+        <title>Variable Manipulation · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -63,7 +63,7 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../IntroReview/StudentDesc.html" />
+    <link rel="next" href="../Buttons/StudentDesc.html" />
     
     
     <link rel="prev" href="StudentDesc.html" />
@@ -153,9 +153,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4" data-path="StudentDesc.html">
+        <li class="chapter " data-level="1.4" data-path="../IntroToJS/StudentDesc.html">
             
-                <a href="StudentDesc.html">
+                <a href="../IntroToJS/StudentDesc.html">
             
                     
                     3/6: Introduction to JavaScript
@@ -167,9 +167,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter active" data-level="1.4.1" data-path="IntroToJSCodeAlong.html">
+        <li class="chapter " data-level="1.4.1" data-path="../IntroToJS/IntroToJSCodeAlong.html">
             
-                <a href="IntroToJSCodeAlong.html">
+                <a href="../IntroToJS/IntroToJSCodeAlong.html">
             
                     
                     Chatbot Code-Along
@@ -262,9 +262,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.7" data-path="../DataTypesReview/StudentDesc.html">
+        <li class="chapter " data-level="1.7" data-path="StudentDesc.html">
             
-                <a href="../DataTypesReview/StudentDesc.html">
+                <a href="StudentDesc.html">
             
                     
                     ✨ 4/3: Review
@@ -276,9 +276,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.7.1" data-path="../DataTypesReview/VariableManipulation.html">
+        <li class="chapter active" data-level="1.7.1" data-path="VariableManipulation.html">
             
-                <a href="../DataTypesReview/VariableManipulation.html">
+                <a href="VariableManipulation.html">
             
                     
                     Variable Manipulation
@@ -666,7 +666,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >Chatbot Code-Along</a>
+        <a href=".." >Variable Manipulation</a>
     </h1>
 </div>
 
@@ -681,54 +681,16 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="basic-chatbot-code-along">Basic Chatbot Code-Along</h1>
-<p>For this exercise, start by saving a copy of <a href="https://vscodeedu.com/T8NQGeg71xRk84ycSHvW" target="_blank">this project</a>.</p>
-<p>Then, follow along with the instructor to build a little text-based JavaScript program. The program will <code>prompt</code> the user with a question and will then reply back with an <code>alert</code> message containing the user&apos;s answer.</p>
-<h2 id="create-the-javascript-file">Create the JavaScript File</h2>
-<p>In the <strong>Files</strong> section on the left, click the <strong>New file</strong> button. Give the new file a name of <code>script.js</code>.</p>
-<p>Within the <strong>script.js</strong> file, add a statement that will show a welcome message to the user.</p>
-<input type="checkbox" id="reveal1" class="reveal-checkbox">
-
-<label for="reveal1" class="reveal-label">&#x1F440; Click to Reveal Code &#x1F440;</label>
-
-<pre><code class="lang-js">alert(<span class="hljs-string">&quot;Welcome to the chatbot!&quot;</span>);
-</code></pre>
-<h2 id="link-the-javascript-file">Link the JavaScript File</h2>
-<ol>
-<li>In the <strong>index.html</strong>, add a <code>&lt;head&gt;&lt;/head&gt;</code> element</li>
-<li>Within the <code>&lt;head&gt;&lt;/head&gt;</code> element, add a <code>&lt;script&gt;&lt;/script&gt;</code> element</li>
-<li>Add a <code>src</code> attribute to the <code>&lt;script&gt;</code> opening tag to point to the <code>script.js</code> file</li>
-</ol>
-<input type="checkbox" id="reveal2" class="reveal-checkbox">
-
-<label for="reveal2" class="reveal-label">&#x1F440; Click to Reveal Code &#x1F440;</label>
-
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">head</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;script.js&quot;</span>&gt;</span><span class="undefined"></span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
-    <span class="hljs-tag">&lt;/<span class="hljs-name">head</span>&gt;</span>
-<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
-</code></pre>
-<p>Run the webpage, and make sure the <code>alert()</code> pop-up with the message appears!</p>
-<blockquote>
-<p><em>Note: a <code>&lt;body&gt;&lt;/body&gt;</code> is not required for this HTML page.</em></p>
-</blockquote>
-<h2 id="ask-a-question">Ask a Question</h2>
-<p>Ask the user for their name and show a text box to the user allowing them to type their answer. Be sure to choose a descriptive variable name to store this value!</p>
-<input type="checkbox" id="reveal3" class="reveal-checkbox">
-
-<label for="reveal3" class="reveal-label">&#x1F440; Click to Reveal Code &#x1F440;</label>
-
-<pre><code class="lang-js"><span class="hljs-keyword">let</span> username = prompt(<span class="hljs-string">&quot;What&apos;s your name?&quot;</span>);
-</code></pre>
-<h2 id="display-a-reply">Display a Reply</h2>
-<p>Show the user a formatted message containing their name.</p>
-<input type="checkbox" id="reveal4" class="reveal-checkbox">
-
-<label for="reveal4" class="reveal-label">&#x1F440; Click to Reveal Code &#x1F440;</label>
-
-<pre><code class="lang-js">alert(<span class="hljs-string">&quot;Cool! I love the name &apos;&quot;</span> + username + <span class="hljs-string">&quot;&apos;. I think it means &apos;smart.&apos;&quot;</span>);
-</code></pre>
+                                <h1 id="variable-manipulation">Variable Manipulation</h1>
+<p>Play around with these projects. See what happens when you change the variable values.</p>
+<h2 id="text-particles">Text Particles</h2>
+<p><a href="https://tumbling-crimson-nail-468.vscodeedu.app" target="_blank">View</a> | <a href="https://vscodeedu.com/v1tTEKqmssnfTS6ykn2n" target="_blank">Edit</a></p>
+<h2 id="platformer-hacker">Platformer Hacker</h2>
+<p><a href="https://hackyformer.onrender.com/" target="_blank">Play the game here.</a></p>
+<h2 id="get-cat">Get Cat</h2>
+<p><a href="https://kind-pecan-pigeon-954.vscodeedu.app/" target="_blank">View</a> | <a href="https://vscodeedu.com/LyHssdPJPqiBHdLdZ2Vh" target="_blank">Edit</a></p>
+<h2 id="falling-canvas">Falling Canvas</h2>
+<p><a href="https://bubblegum-neat-lamp-721.vscodeedu.app" target="_blank">View</a> | <a href="https://vscodeedu.com/BnTeVum4vh98bGrKM0vO" target="_blank">Edit</a></p>
 
                                 
                                 </section>
@@ -756,12 +718,12 @@
 
             
                 
-                <a href="StudentDesc.html" class="navigation navigation-prev " aria-label="Previous page: 3/6: Introduction to JavaScript">
+                <a href="StudentDesc.html" class="navigation navigation-prev " aria-label="Previous page: ✨ 4/3: Review">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="../IntroReview/StudentDesc.html" class="navigation navigation-next " aria-label="Next page: 3/13: Introduction Review">
+                <a href="../Buttons/StudentDesc.html" class="navigation navigation-next " aria-label="Next page: 4/10: Buttons">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -772,7 +734,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Chatbot Code-Along","level":"1.4.1","depth":2,"next":{"title":"3/13: Introduction Review","level":"1.5","depth":1,"path":"IntroReview/StudentDesc.md","ref":"IntroReview/StudentDesc.md","articles":[{"title":"Self-Paced Exercises","level":"1.5.1","depth":2,"path":"IntroReview/SelfPacedExercises.md","ref":"IntroReview/SelfPacedExercises.md","articles":[]}]},"previous":{"title":"3/6: Introduction to JavaScript","level":"1.4","depth":1,"path":"IntroToJS/StudentDesc.md","ref":"IntroToJS/StudentDesc.md","articles":[{"title":"Chatbot Code-Along","level":"1.4.1","depth":2,"path":"IntroToJS/IntroToJSCodeAlong.md","ref":"IntroToJS/IntroToJSCodeAlong.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"}},"file":{"path":"IntroToJS/IntroToJSCodeAlong.md","mtime":"2025-03-25T15:19:19.918Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2025-03-25T15:19:49.297Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Variable Manipulation","level":"1.7.1","depth":2,"next":{"title":"4/10: Buttons","level":"1.8","depth":1,"path":"Buttons/StudentDesc.md","ref":"Buttons/StudentDesc.md","articles":[{"title":"Soundboard Code-Along","level":"1.8.1","depth":2,"path":"Buttons/SoundboardCodeAlong.md","ref":"Buttons/SoundboardCodeAlong.md","articles":[]},{"title":"Self-Paced Exercise","level":"1.8.2","depth":2,"path":"Buttons/SelfPacedExercise.md","ref":"Buttons/SelfPacedExercise.md","articles":[]}]},"previous":{"title":"✨ 4/3: Review","level":"1.7","depth":1,"path":"DataTypesReview/StudentDesc.md","ref":"DataTypesReview/StudentDesc.md","articles":[{"title":"Variable Manipulation","level":"1.7.1","depth":2,"path":"DataTypesReview/VariableManipulation.md","ref":"DataTypesReview/VariableManipulation.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"}},"file":{"path":"DataTypesReview/VariableManipulation.md","mtime":"2025-03-25T15:19:19.916Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2025-03-25T15:19:49.297Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

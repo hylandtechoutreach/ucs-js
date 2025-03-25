@@ -15,6 +15,8 @@ See if these sites are blocked:
 - playcode.io
 - jdoodle.com
 - onecompiler.com
+- freesound.org
+- 
 
 ## Variable Manipulation
 [Click here for the projects.](VariableManipulation.md)
