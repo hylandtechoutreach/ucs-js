@@ -20,7 +20,7 @@ These come from William Hoza.
 We are going to try out some other online sites to see what's blocked.
 
 ## Variable Manipulation
-You can edit the code to change the variables and make these projects your own!
+[Click here to access the Variable Manipulation projects.](VariableManipulation.md)
 
 ## Gimkit
 [Click here to practice the Gimkit.](https://www.gimkit.com/practice/67e1bb3ce035a1fb3a8beef4)

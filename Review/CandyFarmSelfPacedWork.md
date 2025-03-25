@@ -1,7 +1,7 @@
 # Self-Paced Work: Candy Farm
 Follow these instructions to do some work on a website about candy farming.
 
-[Click here for the starter Repl project.](https://replit.com/@HylandOutreach/CandyFarm#index.html) **Fork** the project to begin.
+[Click here for the starter project.](https://vscodeedu.com/45LBCl4P7GEKXlWvG9CN) Click "Save a copy and edit" to begin.
 
 ## Part One: Bug Fixing
 Unfortunately, there are some issues on the current site. None of the buttons seem to do anything yet... it's your job to make them functional!

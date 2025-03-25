@@ -7,7 +7,7 @@ Hack some cookies.
 Learn a bit about Cookie Clicker and the JavaScript console.
 
 ### Cookie Clicker
-[Cookie Clicker](https://sites.google.com/view/cookieclicker-unblocked/) is an [incremental game](https://en.wikipedia.org/wiki/Incremental_game) where the player can click a cookie to get cookies.
+[Cookie Clicker](https://cyrillbrito.github.io/cookieclicker/) is an [incremental game](https://en.wikipedia.org/wiki/Incremental_game) where the player can click a cookie to get cookies.
 
 ![](Assets/Cookie.png)
 
@@ -24,7 +24,7 @@ To open the JavaScript Console in Google Chrome, press **Ctrl**+**Shift**+**J**.
 Copying and running any code found online can be _extremely dangerous_. If you're going to use the JavaScript console, make sure your code is coming from a trustworthy source.
 
 ## Part One: Clicking With Code
-Go to [cookie clicker](https://sites.google.com/view/cookieclicker-unblocked/), and open up the JavaScript console by pressing **Ctrl**+**Shift**+**J** to begin.
+Go to [cookie clicker](https://cyrillbrito.github.io/cookieclicker/), and open up the JavaScript console by pressing **Ctrl**+**Shift**+**J** to begin.
 
 From there, open the proper inner frame on the site:
 

@@ -12,8 +12,12 @@ See if these sites are blocked:
 - codepen.io
 - w3schools.com
 - w3spaces.com
+- playcode.io
+- jdoodle.com
+- onecompiler.com
 
 ## Variable Manipulation
+[Click here for the projects.](VariableManipulation.md)
 
 ## Gimkit
 [Click here to play.](https://www.gimkit.com/view/67e1bb3ce035a1fb3a8beef4)
