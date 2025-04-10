@@ -16,8 +16,8 @@ Material for each lesson is linked below.
 | **March 13** | [Introduction Review](IntroReview/StudentDesc.md) |
 | **March 20** | [Data Types](DataTypes/StudentDesc.md) |
 | **March 27** | 🌷 SPRING BREAK 🌷 |
-| ✨ **April 3** | **[Review](DataTypesReview/StudentDesc.md)** |
-| **April 10** | [Buttons](Buttons/StudentDesc.md) |
+| **April 3** | [Review](DataTypesReview/StudentDesc.md) |
+| ✨ **April 10** | **[Buttons](Buttons/StudentDesc.md)** |
 | **April 17** | [Review](Review/StudentDesc.md) |
 | **April 24** | [Conditionals](Conditionals/StudentDesc.md) |
 | **May 1** | [Review](ConditionalsReview/StudentDesc.md) |
