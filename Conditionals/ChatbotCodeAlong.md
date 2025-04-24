@@ -4,7 +4,7 @@ In this activity, create a simple [chatbot](https://en.wikipedia.org/wiki/Chatbo
 ## Part Zero: Background
 Start by talking to [ELIZA](https://psych.fullerton.edu/mbirnbaum/psych101/eliza.htm), a "Rogerian Therapist" chatbot from the 1960s. This is a small example of what is possible with chatbots. For this activity, your job is to make a chatbot that will act as a friend to people who do not have many friends. This will help them feel less lonely.
 
-[**Click here to view the Repl project.**](https://replit.com/@HylandOutreach/ChatbotFriend) Fork the project to begin.
+[**Click here to view the project.**](https://vscodeedu.com/1QQtkOwtYr4UFYBk1Mus) Copy the project to begin.
 
 ### The Code
 Make sure to note how the code is currently working. The "Chat" button displays a message when it is clicked.
