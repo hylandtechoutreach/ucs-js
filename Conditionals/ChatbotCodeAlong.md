@@ -152,3 +152,12 @@ Add several responses to make the chatbot more lifelike.
 
 ### Advanced Challenges
 [Click here and try to complete the advanced challenges.](Challenges.md)
+
+## An Aside
+In the time since this lesson was created, chatbots have reached new echelons of sophistication. A.I. used to be little more than gigantic collections of `if` statements:
+
+![](https://i.redd.it/18ojb9erlexc1.jpeg)
+
+Now, with the advent of Large Language Models (LLMs), chatbots respond more humanly than ever. For a brief introduction to this topic, check out this video:
+
+<iframe width="100%" height="450px" src="https://www.youtube.com/embed/LPZh9BOjkQs?si=KkVAFQVu1dgWvEgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
