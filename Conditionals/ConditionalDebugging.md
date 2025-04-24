@@ -1,7 +1,7 @@
 # Self-Paced Work: Conditional Debugging
 One of the most important parts of programming is [debugging](https://en.wikipedia.org/wiki/Debugging) - the process of finding and fixing errors in code. In this activity, practice debugging an existing program.
 
-[**Click here to view the starter Repl project.**](https://replit.com/@HylandOutreach/IfDebugTime) Fork the project to begin.
+[**Click here to view the starter project.**](https://vscodeedu.com/EuaQyO1jIXEWWvLTw3Li) Save a copy and edit the project to begin.
 
 Start by testing out the buttons to see how they work. You may notice that each of these buttons has an issue. This is a serious problem. You need to fix all these problems.
 
