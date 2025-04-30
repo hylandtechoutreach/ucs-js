@@ -2,7 +2,7 @@
 The [p5.js library](https://p5js.org/) makes creative coding possible - you can make all kinds of different art with it! 
 
 ## Embers
-[**Click here to view the Repl project.**](https://replit.com/@HylandOutreach/Embers) Fork the project to begin.
+[Project Code](https://vscodeedu.com/rkzJdZ7VeNOxRnoLfIyH) | [Live Site](https://hylandtechclub.com/showcase/UCS/Embers/)
 
 ### Testing
 Run the project and test out the site to see how it works.
@@ -18,7 +18,7 @@ There are a few things you can try to change. Open up the **script.js** file to 
 - MINI-CHALLENGE: Make the embers into snowflakes - have them fall _down_ instead of _up_
 
 ## Waves
-[**Click here to view the Repl project.**](https://replit.com/@HylandOutreach/Waves) Fork the project to begin.
+[Project Code](https://vscodeedu.com/xzT2ybtous9ySxThnb9Z) | [Live Site](https://hylandtechclub.com/showcase/UCS/Waves/)
 
 ### Testing
 Run the project and test out the site to see how it works.
@@ -35,7 +35,7 @@ There are a few things you can try to change. Open up the **script.js** file to 
 - Make the background see-through
 
 ## Greet
-[**Click here to view the Repl project.**](https://replit.com/@HylandOutreach/Greet) Fork the project to begin.
+[Project Code](https://vscodeedu.com/MF5jrNjnQRkOcGxcaWuY) | [Live Site](https://hylandtechclub.com/showcase/UCS/Greet/)
 
 ### Testing
 Run the project and test out the site to see how it works.

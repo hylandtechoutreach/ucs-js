@@ -2,7 +2,7 @@
 JavaScript makes it possible to manipulate CSS styles dynamically.
 
 ## Background Colors
-[**Click here to view the Repl project.**](https://replit.com/@HylandOutreach/Spring2017-BackgroundColors) Fork the project to begin.
+[Project Code](https://vscodeedu.com/zVHC9tFzxlgsms3HY3sv) | [Live Site](https://hylandtechclub.com/showcase/UCS/BackgroundColors/index.html)
 
 ### Testing
 Run the project and test out the site to see how it works.
@@ -15,7 +15,7 @@ There are a few things you can try to change. Open up the **script.js** file to 
 - Make the gradient colors change more drastically each animation tick
 
 ## Fading Pictures
-[**Click here to view the Repl project.**](https://replit.com/@HylandOutreach/Spring2017-Fading) Fork the project to begin.
+[Project Code](https://vscodeedu.com/XV6zRwRkME3y2vexVLGl) | [Live Site](https://hylandtechclub.com/showcase/UCS/Fading/)
 
 ### Testing
 Run the project and test out the site to see how it works.

@@ -2,7 +2,7 @@
 The [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) provides a means for drawing graphics via JavaScript and the HTML `<canvas>` element.
 
 ## The Project
-[**Click here to view the Repl project.**](https://replit.com/@HylandOutreach/Spring2017-Animation) Fork the project to begin.
+[Project Code](https://vscodeedu.com/Lc0rlGwtti5V0UO8aaAy) | [Live Site](https://hylandtechclub.com/showcase/UCS/CanvasAnimation/)
 
 ## Testing
 Run the project and test out the site to see how it works.
