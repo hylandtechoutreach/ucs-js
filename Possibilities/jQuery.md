@@ -2,7 +2,7 @@
 The [jQuery library](https://jquery.com/) provides many different ways to use JavaScript to interact with webpages.
 
 ## Picture Slideshow
-[**Click here to view the Repl project.**](https://replit.com/@HylandOutreach/jQuerySlideshow) Fork the project to begin.
+[Project Code](https://vscodeedu.com/A9NQxTZc7bWWAPoYdalW) | [Live Site](https://hylandtechclub.com/showcase/UCS/jQuerySlideshow/)
 
 ### Testing
 Run the project and test out the site to see how it works.
@@ -15,7 +15,7 @@ There are a couple things you can try to change. Open up the **script.js** file 
 - Add the **images/slide4.jpg** picture to the slideshow
 
 ## Input & Output
-[**Click here to view the Repl project.**](https://replit.com/@HylandOutreach/jQueryInput) Fork the project to begin.
+[Project Code](https://vscodeedu.com/89rEbrsWjoPuwCAbtWgZ) | [Live Site](https://hylandtechclub.com/showcase/UCS/jQueryInput/)
 
 ### Testing
 Run the project and test out the site to see how it works.

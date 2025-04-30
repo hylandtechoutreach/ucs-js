@@ -2,7 +2,7 @@
 The [Phaser framework](https://github.com/photonstorm/phaser#phaser---html5-game-framework) is one way to make games with JavaScript.
 
 ## The Project
-[**Click here to view the Repl project.**](https://replit.com/@HylandOutreach/Platformer) Fork the project to begin.
+[Project Code](https://vscodeedu.com/Zv0Qo69HNDv23VsHWRLc) | [Live Site](https://hylandtechclub.com/showcase/UCS/Platformer/)
 
 ## Testing
 Run the project and test out the site to see how it works.
