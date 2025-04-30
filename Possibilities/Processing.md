@@ -53,6 +53,5 @@ There are a few things you can try to change. Open up the **script.js** file to 
 ## Resources
 Processing is extremely powerful.
 
-- [Click here for tutorials](https://p5js.org/learn/)
 - [Click here for some more examples](https://p5js.org/examples/)
 - [Click here to check out some additional libraries that are available](https://p5js.org/libraries/)
