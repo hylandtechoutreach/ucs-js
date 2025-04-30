@@ -19,7 +19,6 @@
   - [Self-Paced Work](Review/CandyFarmSelfPacedWork.md)
 - [4/24: Conditionals](Conditionals/StudentDesc.md)
   - [Debugging](Conditionals/ConditionalDebugging.md)
-  - [Code-Along](Conditionals/ChatbotCodeAlong.md)
   - [Challenges](Conditionals/Challenges.md)
 - [✨ 5/1: Review](ConditionalsReview/StudentDesc.md)
   - [Code-Along](Conditionals/ChatbotCodeAlong.md)
