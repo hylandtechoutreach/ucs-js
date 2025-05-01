@@ -1,7 +1,7 @@
 # Candy Clicker
 This project is like Cookie Clicker but with candy.
 
-[**Click here to view the Repl project.**](https://replit.com/@HylandOutreach/CandyClick) Fork the project to begin.
+[Project Code](https://vscodeedu.com/evVN4OMbgRxcmHyAp8AK) | [Live Site](https://hylandtechclub.com/showcase/UCS/CandyClick/)
 
 ## Minimum Required Updates
 At minimum, you must make all of the following updates:
