@@ -1,7 +1,7 @@
 # Spongebob Soundboard
 This project will show some Spongebob quotes.
 
-[**Click here to view the Repl project.**](https://replit.com/@HylandOutreach/Soundboard) Fork the project to begin.
+[Project Code](https://vscodeedu.com/2OWzDosgCRKeJMr3tpWx) | [Live Site](https://hylandtechclub.com/showcase/UCS/Soundboard/)
 
 ## Minimum Required Updates
 At minimum, you must make all of the following updates:

@@ -1,7 +1,7 @@
 # Quiz About Me
 This project will let someone take a quiz about you.
 
-[**Click here to view the Repl project.**](https://replit.com/@HylandOutreach/QuizAboutMe) Fork the project to begin.
+[Project Code](https://vscodeedu.com/aNbi9nnKKUsLlewrYIWf) | [Live Site](https://hylandtechclub.com/showcase/UCS/QuizAboutMe/)
 
 ## Minimum Required Updates
 At minimum, you must make all of the following updates:

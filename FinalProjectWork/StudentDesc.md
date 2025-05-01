@@ -27,7 +27,7 @@ You can also start from any previous projects or examples, such as the [chatbot]
 Make sure you modify the project enough to make it your own. Minimum requirements are listed with each guide.
 
 ## Submission
-Copy a link to the Repl for your final project, then [click here to submit it](https://forms.gle/UDotHvstTNHpCgud8).
+Copy a link to your final project, then [click here to submit it](https://forms.office.com/r/p1NV1b4wjW).
 
 ## Presentations
-You will be asked to present your final project on the last day of Academies.
+You will be asked to present your final project on 5/22.
