@@ -22,6 +22,8 @@ Facilitate the [Blooket quiz](https://dashboard.blooket.com/set/644fd74631645948
 
 This quiz reviews concepts from the previous lesson about [conditionals](../Conditionals/README.md).
 
+[updated](https://dashboard.blooket.com/set/681cace148e7e3bc90cab8e3)
+
 ## Agenda
 
 | Activity | Time |
