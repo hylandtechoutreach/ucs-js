@@ -21,7 +21,7 @@ Material for each lesson is linked below.
 | **April 17** | [Review](Review/StudentDesc.md) |
 | **April 24** | [Conditionals](Conditionals/StudentDesc.md) |
 | **May 1** | [Review](ConditionalsReview/StudentDesc.md) |
-| ✨ **May 8** | **[More Possibilities](Possibilities/StudentDesc.md)** |
-| **May 15** | [Final Project Work](FinalProjectWork/StudentDesc.md) |
+| **May 8** | [More Possibilities](Possibilities/StudentDesc.md) |
+| ✨ **May 15** | **[Final Project Work](FinalProjectWork/StudentDesc.md)** |
 | **May 22** | Final Project Presentations |
 | **May 29** | [Game Day](GameDay/StudentDesc.md) |
