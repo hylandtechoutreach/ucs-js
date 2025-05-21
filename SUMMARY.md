@@ -29,7 +29,7 @@
   - [Phaser](Possibilities/Phaser.md)
   - [jQuery](Possibilities/jQuery.md)
   - [More](Possibilities/More.md)
-- [✨ 5/15: Final Project](FinalProjectWork/StudentDesc.md)
+- [5/15: Final Project](FinalProjectWork/StudentDesc.md)
   - [Quiz About Me](FinalProjectWork/QuizAboutMe.md)
   - [Candy Clicker](FinalProjectWork/CandyClicker.md)
   - [Spongebob Soundboard](FinalProjectWork/Soundboard.md)
